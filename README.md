@@ -12,5 +12,3 @@ The program works very similar to the original Connectiones game. You can select
 I hope you like my program,
 
 Abel Rueda
-
-Translated with DeepL.com (free version)
